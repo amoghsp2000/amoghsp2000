@@ -48,11 +48,11 @@ I'm a backend and automation engineer who turns messy, manual business processes
      Find more at https://simpleicons.org and https://shields.io -->
 
 ---
-
+<!--
 ## 📌 Featured Projects
-
+-->
 <!-- Replace these with projects from your portfolio. Keep each to 1–2 lines: what it does + the impact. -->
-
+<!--
 | Project | What it does | Stack |
 |---|---|---|
 | **[Project Name](https://github.com/amoghsp2000/repo)** | Short description of the problem and the result | PHP · MySQL |
@@ -60,6 +60,8 @@ I'm a backend and automation engineer who turns messy, manual business processes
 | **[Project Name](https://github.com/amoghsp2000/repo)** | Short description of the problem and the result | Multi-tenant SaaS |
 
 👉 See more on my **[portfolio](https://amoghpuranikmath.dev)**.
+
+-->
 
 ---
 
